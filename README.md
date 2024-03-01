@@ -1,4 +1,4 @@
-#RSA Key Exchange Implementation
+# RSA Key Exchange Implementation
 
 This program demonstrates a secure communication system between two parties, Alex and Bob, using the RSA algorithm for key exchange. 
 The exchange is implemented through three classes: Alex, Bob, and ExchangeTest, utilizing multi-threaded programming.
